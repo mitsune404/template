@@ -72,7 +72,7 @@ A quick look at the folder structure of this project.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fuiuxarghya%2Favogeek&project-name=avogeek&repository-name=avogeek)
 
-[![Deploy to Netlify](https://www.netlify.com//img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/uiuxarghya/avogeek&utm_source=github)
+[![Deploy to Netlify](https://www.netlify.com//img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mitsune404/template&utm_source=github)
 
 # Copyright & License
 
